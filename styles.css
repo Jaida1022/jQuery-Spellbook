@@ -1,0 +1,28 @@
+.John{
+  display: flex;
+ justify-content:center;  
+}
+
+img{
+ height:230px;
+ width:346px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+
+ background-image: url("https://media.giphy.com/media/3o85xKOD94cunXkEfe/giphy.gif");
+ background-color: #000000;
+}
+
+.blue {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
